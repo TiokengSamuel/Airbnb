@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import
+import SearchIcon from "@material-ui/icons"
 
 function Header() {
   return (
