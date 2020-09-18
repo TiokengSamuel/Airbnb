@@ -10,7 +10,7 @@ function Header() {
         alt="logo"
       />
 
-    <div className= "header">
+    <div className= "header__centerc">
 
     </div>
 
