@@ -1,6 +1,7 @@
 import React from 'react'
+import './Header.css'
 
-function r() {
+function Header() {
     return (
         <div>
             
