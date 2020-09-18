@@ -12,6 +12,7 @@ function Header() {
 
     <div className= "header__center">
         <input type="text"/>
+        <SearchIcon/>
     </div>
 
     </div>
