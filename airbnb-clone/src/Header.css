@@ -9,5 +9,6 @@
 }
 
 .header__center {
-    
+    display: flex;
+    align-items: center;
 }
