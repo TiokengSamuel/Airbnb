@@ -7,6 +7,7 @@ function App() {
     <div className="app">
       <h1>Build Airbnb clone</h1>
 
+      <Header/>
       <Home/>
 
       {/* Header */}
