@@ -9,6 +9,12 @@ function App() {
       {/* Header */}
 
       {/* Banner */}
+        {/* SearchPage */}
+
+      {/* Card */}
+
+      {/* Footer */}
+      
     </div>
   );
 }
