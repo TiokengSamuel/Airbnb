@@ -10,8 +10,8 @@ function Header() {
         alt="logo"
       />
 
-    <div className= "header__centerc">
-
+    <div className= "header__center">
+        <input type="text"/>
     </div>
 
     </div>
