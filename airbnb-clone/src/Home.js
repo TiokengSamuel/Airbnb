@@ -36,7 +36,7 @@ function Home() {
                 <Card
                 src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
                 title = "Penthouse in London"
-                description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
+                description="Enjoy the amazing"
                 price="$130/night"
                 />
                 <Card/>
