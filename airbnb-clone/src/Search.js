@@ -23,7 +23,7 @@ function Search() {
         <div className='search'>
             <DateRangePicker ranges = {
                 [selectionRange]} onChange={handleSelect}/>
-            }
+            
         </div>
     )
 }
