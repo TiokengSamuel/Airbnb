@@ -15,7 +15,7 @@ function Search() {
     };
 
     function handleSelect(ranges) {
-        
+        setStartDate(range.selection.startDate)
     }
 
     return (
