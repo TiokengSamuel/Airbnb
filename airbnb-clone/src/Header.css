@@ -13,8 +13,6 @@
     object-fit: contain;
     height: 100px;
     margin-left: 20px;
-    padding: 10px;
-    height: 30px;
 }
 
 .header__center {
@@ -22,6 +20,9 @@
     display: flex;
     align-items: center;
     max-width: fit-content;
+    padding: 10px;
+    height: 30px;
+
 }
 
 .header__right {
