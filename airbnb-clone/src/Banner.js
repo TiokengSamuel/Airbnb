@@ -10,7 +10,8 @@ function Banner() {
         <div className="banner">
             <div className='banner__search'>
                 {showSearch && <h1>Show Date Picker</h1>}
-                <Button variant='outlined'
+               
+                <Button variant='outlined' onClick
                 className='banner__searchButton'
                 >Search Dates</Button>
             </div>
