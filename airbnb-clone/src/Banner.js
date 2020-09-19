@@ -19,7 +19,7 @@ function Banner() {
                 >
                     {
                        showSearch ?
-                        "Hide": "SearchDates"
+                        "Hide": "Search Dates"
                     }
                 </Button>
             </div>
