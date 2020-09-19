@@ -28,7 +28,8 @@ function Home() {
             </div>
             <div className="home__section">
                 <Card
-                src=""
+                src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
+                title = "3 bed"
                 />
                 <Card/>
                 <Card/>
