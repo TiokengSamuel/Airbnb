@@ -6,7 +6,7 @@ function Card({src, title, description, price}) {
         <div className= "card">
             <img src = {src} alt=""/>
             <div className="card__info">
-                
+                <h2></h2>
             </div>
         </div>
     )
