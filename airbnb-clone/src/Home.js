@@ -10,6 +10,8 @@ function Home() {
 
             <div className="home__section">
                 <Card/>
+                <Card/>
+                <Card/>
             </div>
         </div>
     ) 
