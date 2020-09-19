@@ -18,7 +18,8 @@ function Banner() {
                 className='banner__searchButton'
                 >
                     {
-                       showSearch 
+                       showSearch ?
+                        "Hide": "SearchDates"
                     }
                 </Button>
             </div>
