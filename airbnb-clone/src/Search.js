@@ -21,7 +21,9 @@ function Search() {
 
     return (
         <div className='search'>
-            <DateRangePicker ranges
+            <DateRangePicker ranges = {
+                [selectionRange]} onChange={handleSelect}/>
+            }
         </div>
     )
 }
