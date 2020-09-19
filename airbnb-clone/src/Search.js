@@ -15,7 +15,7 @@ function Search() {
     };
 
     function handleSelect(ranges) {
-        setStartDate(range.selection.startDate);
+        setStartDate(ranges.selection.startDate);
         setEndDate(ranges.selection.endDate);
     }
 
