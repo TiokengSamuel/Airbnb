@@ -27,4 +27,6 @@
     border: none;
 }
 
-.search > input:focus
+.search > input:focus {
+    outline-width: 0;
+}
