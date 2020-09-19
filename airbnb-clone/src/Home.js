@@ -7,8 +7,8 @@ function Home() {
         <div className="home">
             <Banner/>
 
-            <div>
-                
+            <div className="home__section">
+
             </div>
         </div>
     ) 
