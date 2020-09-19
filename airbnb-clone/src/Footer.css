@@ -6,3 +6,8 @@
     text-align: center;
     bottom: 0;
 }
+
+.footer > p {
+    padding: 5px;
+    font-size: 14px;
+}
