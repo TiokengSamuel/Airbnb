@@ -21,7 +21,7 @@ function Search() {
 
     return (
         <div className='search'>
-            
+            <DateRangePicker ranges
         </div>
     )
 }
