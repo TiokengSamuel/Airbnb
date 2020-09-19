@@ -27,7 +27,9 @@ function Home() {
                 />
             </div>
             <div className="home__section">
-                <Card/>
+                <Card
+                src=""
+                />
                 <Card/>
                 <Card/>
             </div>
