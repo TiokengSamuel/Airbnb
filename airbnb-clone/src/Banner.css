@@ -17,5 +17,5 @@
 .banner__info > button {
     background-color: #ff7779;
     color: white;
-
+    text-transform: inherit;
 }
