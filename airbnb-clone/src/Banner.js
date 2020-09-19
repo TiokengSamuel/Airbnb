@@ -9,7 +9,7 @@ function Banner() {
     return (
         <div className="banner">
             <div className='banner__search'>
-                {showSearch && <h1>Show Date Picker</h1>}
+                {showSearch && <Search/>}
                
                 <Button variant='outlined' onClick = {() =>
                 setShowSearch(!showSearch)}
