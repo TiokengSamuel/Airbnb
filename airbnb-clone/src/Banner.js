@@ -8,7 +8,6 @@ function Banner() {
 
     return (
         <div className="banner">
-            <h1>I am a banner</h1>
             <div className='banner__search'>
                 {showSearch && <h1>Show Date Picker</h1>}
                
