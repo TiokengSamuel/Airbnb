@@ -3,12 +3,13 @@ import './Banner.css'
 import {Button} from "@material-ui/core"
 
 function Banner() {
-    const [showSearch, setShowSearch] = useState
+    const [showSearch, setShowSearch] = useState(false);
 
 
     return (
         <div className="banner">
             <div className='banner__search'>
+                {showSearch &&}
                 <Button variant='outlined'
                 className='banner__searchButton'
                 >Search Dates</Button>
