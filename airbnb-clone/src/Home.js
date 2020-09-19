@@ -7,7 +7,7 @@ function Home() {
         <div className="home">
             <Banner/>
         </div>
-    )
+    ) 
 }
 
 export default Home
