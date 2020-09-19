@@ -25,3 +25,8 @@
 .banner__info > h5 {
     margin-top: 10px;
 }
+
+.banner__info > button:hover {
+    background-color: #white;
+    
+}
