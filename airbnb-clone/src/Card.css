@@ -8,6 +8,10 @@
     cursor: pointer;
 }
 
+.card:hover {
+    transform: scale(1.07);
+}
+
 .card > img {
     object-fit: fill;
     min-width: 300px;
