@@ -3,3 +3,8 @@
     height: 50vh;
     position: relative;
 }
+
+.banner___info {
+    background-color: black;
+    color: white;
+}
