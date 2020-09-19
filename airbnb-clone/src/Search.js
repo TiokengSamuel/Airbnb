@@ -8,6 +8,11 @@ function Search() {
     const [startDate, setStartDate] = useState(new Date());
     const  [endDate, setEndDate] = useState(new Date());
 
+    const selectionRange = {
+        startDate: startDate,
+        endDate: endDate,
+    }
+
     return (
         <div className='search'>
             
