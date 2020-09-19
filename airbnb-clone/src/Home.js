@@ -17,7 +17,7 @@ function Home() {
                 />
                 <Card
                 src="https://a0.muscache.com/im/pictures/15159c9c.jpg?im_w=720"
-                title="Online Experiences"
+                title="Unique Stays"
                 description="Unique activities we can do together, led by a world of hosts"
                 />
                 <Card
