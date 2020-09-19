@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import SearchIcon from "@material-ui/icons/Search"
-import Avatar from "@material-ui/icons/Avatar"
+import { Avatar } from "@material-ui/icons"
 import LanguageIcon from "@material-ui/icons/Language"
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore"
 
