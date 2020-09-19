@@ -6,10 +6,10 @@ function Home() {
     return (
         <div className="home">
             <Banner/>
-            
+
 
             <div className="home__section">
-
+                <Card/>
             </div>
         </div>
     ) 
