@@ -18,7 +18,7 @@ function Home() {
                 <Card
                 src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
                 title="Unique Stays"
-                description="Unique activities we can do together, led by a world of hosts"
+                description="Spaces that are mor"
                 />
                 <Card
                 src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
