@@ -12,7 +12,7 @@ function Search() {
         startDate: startDate,
         endDate: endDate,
         key: "selection",
-    }
+    };
 
     return (
         <div className='search'>
