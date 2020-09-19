@@ -8,7 +8,8 @@ function Banner() {
 
     return (
         <div className="banner">
-            <div className='banner__search'>
+            <h1>I am a banner</h1>
+            {/* <div className='banner__search'>
                 {showSearch && <h1>Show Date Picker</h1>}
                
                 <Button variant='outlined' onClick = {() =>
@@ -23,7 +24,7 @@ function Banner() {
                 </h5>
                 <Button variant='outlined'>
                     Explore Nearby</Button>
-            </div>
+            </div> */}
         </div>
     )
 }
