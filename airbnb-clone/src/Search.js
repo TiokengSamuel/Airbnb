@@ -27,6 +27,11 @@ function Search() {
             Number of Guest
             <PeopleIcon/>
         </h2>
+
+            <input min={0}
+            defaultValue={2}
+            type="number"/>
+
         </div>
     )
 }
