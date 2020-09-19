@@ -1,3 +1,8 @@
 .card {
     margin: 10px;
 }
+
+.card > img {
+    object-fit: fill;
+    min-width: 300px;
+}
