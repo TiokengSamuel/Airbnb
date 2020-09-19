@@ -11,6 +11,7 @@ function Search() {
     const selectionRange = {
         startDate: startDate,
         endDate: endDate,
+        key: "selection",
     }
 
     return (
