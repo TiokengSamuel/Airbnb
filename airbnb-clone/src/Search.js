@@ -6,8 +6,8 @@ import { DateRangePicker } from "react-date-range"
 
 function Search() {
     const [startDate, setStartDate] = useState(new Date());
-    const
-    
+    const  [endDate, setEndDate] = useState(new Date());
+
     return (
         <div className='search'>
             
