@@ -5,7 +5,9 @@ import {Button} from "@material-ui/core"
 function Banner() {
     return (
         <div className="banner">
-            <div className='banner'></div>
+            <div className='banner__search'>
+                <Button></Button>
+            </div>
             <div className='banner__info'>
                 <h1>Get out and strech your imagination</h1>
                 <h5>Plan a different kind of gateway
