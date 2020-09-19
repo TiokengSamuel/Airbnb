@@ -26,6 +26,11 @@
     margin-top: 10px;
 }
 
+.banner__search {
+    display: flex;
+    flex:
+}
+
 .banner__info > button:hover {
     background-color: white;
     color: #ff7779;
@@ -35,5 +40,5 @@
     background-color: white !important;
     font-weight: 900 !important;
     text-transform: inherit !important;
-    color: #ff7779;
+    color: #ff7779 !important;
 }
