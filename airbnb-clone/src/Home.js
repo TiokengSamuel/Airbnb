@@ -29,7 +29,8 @@ function Home() {
             <div className="home__section">
                 <Card
                 src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-                title = "3 bed"
+                title = "3 Bedroom Flat in Bournemouth"
+                
                 />
                 <Card/>
                 <Card/>
