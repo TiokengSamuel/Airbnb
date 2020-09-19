@@ -32,5 +32,8 @@
 }
 
 .search > button {
-    
+    position: absolute;
+    left: 0;
+    top: 480px;
+    text-transform: inherit !important;
 }
