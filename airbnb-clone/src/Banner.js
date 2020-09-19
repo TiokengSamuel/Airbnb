@@ -1,6 +1,6 @@
 import React from 'react'
 import './Banner.css'
-import {Button} from
+import {Button} from "@material-ui/core"
 
 function Banner() {
     return (
@@ -10,7 +10,8 @@ function Banner() {
                 <h5>Plan a different kind of gateway
                     to uncover the hidden gems near you.
                 </h5>
-                <Button></Button>
+                <Button variant='outlined'>
+                    Explore Nearby</Button>
             </div>
         </div>
     )
