@@ -20,7 +20,11 @@ function Home() {
                 title="Online Experiences"
                 description="Unique activities we can do together, led by a world of hosts"
                 />
-                <Card/>
+                <Card
+                src="https://a0.muscache.com/im/pictures/fdb46962.jpg?im_w=720"
+                title="Online Experiences"
+                description="Unique activities we can do together, led by a world of hosts"
+                />
             </div>
             <div className="home__section">
                 <Card/>
