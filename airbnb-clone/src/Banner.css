@@ -33,5 +33,6 @@
 
 .banner__searchButton{
     background-color: white !important;
-    font-weight: 
+    font-weight: 900 !important;
+    text-transform: inherit !important;
 }
