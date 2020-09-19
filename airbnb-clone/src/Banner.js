@@ -6,7 +6,9 @@ function Banner() {
     return (
         <div className="banner">
             <div className='banner__search'>
-                <Button variant='outlined'>Search Dates</Button>
+                <Button variant='outlined'
+                className='banner__searchButton'
+                >Search Dates</Button>
             </div>
             <div className='banner__info'>
                 <h1>Get out and strech your imagination</h1>
