@@ -27,6 +27,10 @@
 
 }
 
+.header__center > input {
+    border: none;
+}
+
 .header__right {
     display: flex;
     align-items: center;
