@@ -3,6 +3,9 @@ import './Banner.css'
 import {Button} from "@material-ui/core"
 
 function Banner() {
+    const [showSearch, setShowSearch] = useState
+
+
     return (
         <div className="banner">
             <div className='banner__search'>

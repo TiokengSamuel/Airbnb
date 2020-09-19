@@ -27,8 +27,9 @@
 }
 
 .banner__search {
+    
     display: flex;
-    flex:
+    flex-direction: column;
 }
 
 .banner__info > button:hover {
