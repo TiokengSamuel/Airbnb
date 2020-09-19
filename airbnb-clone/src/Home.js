@@ -6,6 +6,10 @@ function Home() {
     return (
         <div className="home">
             <Banner/>
+
+            <div>
+                
+            </div>
         </div>
     ) 
 }
