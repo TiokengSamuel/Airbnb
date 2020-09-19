@@ -14,6 +14,10 @@ function Search() {
         key: "selection",
     };
 
+    function handleSelect(ranges) {
+        
+    }
+
     return (
         <div className='search'>
             
