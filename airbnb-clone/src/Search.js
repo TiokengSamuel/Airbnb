@@ -5,7 +5,7 @@ import "react-date-range/dist/theme/default.css"
 import { DateRangePicker } from "react-date-range"
 
 function Search() {
-    const [startDate, setStartDate]
+    const [startDate, setStartDate] = useState(new)
     return (
         <div className='search'>
             
