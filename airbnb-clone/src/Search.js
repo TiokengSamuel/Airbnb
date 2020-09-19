@@ -1,7 +1,7 @@
 import React from 'react'
 import './Search.css'
 import "react-date-range/dist/style.css";
-import
+import "react-date-range/dist/theme/default.css"
 import { DateRangePicker } from "react-date-range"
 
 function Search() {
