@@ -9,7 +9,7 @@ function Banner() {
     return (
         <div className="banner">
             <div className='banner__search'>
-                {showSearch &&}
+                {showSearch && <h1>Show Date Picker</h1>}
                 <Button variant='outlined'
                 className='banner__searchButton'
                 >Search Dates</Button>
