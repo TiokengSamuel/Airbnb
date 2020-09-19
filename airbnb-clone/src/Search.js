@@ -25,6 +25,7 @@ function Search() {
                 [selectionRange]} onChange={handleSelect}/>
         <h2>
             Number of Guest
+            <PeopleIcon/>
         </h2>
         </div>
     )
