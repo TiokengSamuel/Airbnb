@@ -21,9 +21,9 @@ function Home() {
                 description="Unique activities we can do together, led by a world of hosts"
                 />
                 <Card
-                src="https://a0.muscache.com/im/pictures/fdb46962.jpg?im_w=720"
-                title="Online Experiences"
-                description="Unique activities we can do together, led by a world of hosts"
+                src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
+                title="Entire homes"
+                description="Comfortable private"
                 />
             </div>
             <div className="home__section">
