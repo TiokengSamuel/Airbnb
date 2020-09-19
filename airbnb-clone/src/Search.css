@@ -30,3 +30,7 @@
 .search > input:focus {
     outline-width: 0;
 }
+
+.search > button {
+    
+}
