@@ -44,3 +44,11 @@
     text-transform: inherit !important;
     color: #ff7779 !important;
 }
+
+.search > input {
+    width: 539px;
+    padding: 20px;
+    position: absolute;
+    left: 0;
+    height: 30px;
+}
