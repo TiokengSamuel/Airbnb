@@ -1,5 +1,7 @@
 .card {
     margin: 10px;
+    border: 0px solid black;
+    border-radius: 10px;
 }
 
 .card > img {
