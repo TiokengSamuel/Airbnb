@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useState} from 'react'
 import './Banner.css'
 import {Button} from "@material-ui/core"
 
