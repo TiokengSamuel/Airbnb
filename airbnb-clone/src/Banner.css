@@ -15,5 +15,7 @@
 }
 
 .banner__info > button {
-    background-color: #fff;
+    background-color: #ff7779;
+    color: white;
+
 }
