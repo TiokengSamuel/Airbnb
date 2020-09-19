@@ -30,7 +30,7 @@ function Home() {
                 <Card
                 src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
                 title = "3 Bedroom Flat in Bournemouth"
-                
+                description="Superhost with a stunning view"
                 />
                 <Card/>
                 <Card/>
