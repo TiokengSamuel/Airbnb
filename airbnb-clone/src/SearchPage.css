@@ -1,3 +1,7 @@
 .search__info {
     padding: 20px;
 }
+
+.search__info > p {
+    margin-bottom: 10px;
+}
