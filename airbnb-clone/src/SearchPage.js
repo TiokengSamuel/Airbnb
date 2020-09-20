@@ -24,7 +24,7 @@ function SearchPage() {
                 img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPTTxQPMcBh7SPzLFactXnP3uhifeVT_g&usqp=CAU"
                 location="Private room in center of London"
                 title="Stay at this spacious Edwardian House"
-                description="! guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
+                description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
                 star={4.73}
                 price="$30 / night"
                 total="$177 total"
@@ -38,6 +38,16 @@ function SearchPage() {
                 star={3.8}
                 price="$35 / night"
                 total="$207 total"
+            />
+
+            <SearchResult
+                img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPTTxQPMcBh7SPzLFactXnP3uhifeVT_g&usqp=CAU"
+                location="Private room in center of London"
+                title="30min to Oxford University"
+                description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
+                star={4.73}
+                price="$30 / night"
+                total="$177 total"
             />
         </div>
     )
