@@ -46,8 +46,8 @@ function SearchPage() {
                 title="Spacious Peacefull"
                 description="3 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Dry Cleaning"
                 star={5.0}
-                price="$55 / night"
-                total="$320 total"
+                price="$60 / night"
+                total="$450 total"
             />
 
             <SearchResult
