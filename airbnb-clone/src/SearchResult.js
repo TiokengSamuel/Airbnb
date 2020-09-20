@@ -17,6 +17,10 @@ function SearchResult({
             <FavouriteBorderIcon
             className="searchResult__heart"/>
         </div>
+
+        <div className='searchResult__info'>
+            
+        </div>
     )
 }
 
