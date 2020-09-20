@@ -35,3 +35,8 @@
 .searchResult__infoTop {
     width: 40vw;
 }
+
+.searchResult__infoTop > h3 {
+    font-weight: 300;
+    margin-top: 10px;
+}
