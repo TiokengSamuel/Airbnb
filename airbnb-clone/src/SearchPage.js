@@ -34,10 +34,10 @@ function SearchPage() {
                 img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
                 location="Private room in center of London"
                 title="London Studios Appartments"
-                description="4 guest - 4 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
-                star={4.73}
-                price="$30 / night"
-                total="$177 total"
+                description="4 guest - 4 bedroom - Free parking  - Washing Machine"
+                star={3.8}
+                price="$35 / night"
+                total="$207 total"
             />
         </div>
     )
