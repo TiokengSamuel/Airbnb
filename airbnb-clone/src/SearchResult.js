@@ -19,7 +19,9 @@ function SearchResult({
         </div>
 
         <div className='searchResult__info'>
-            
+            <div className = 'searchResult__infoTop'>
+
+            </div>
         </div>
     )
 }
