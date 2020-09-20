@@ -60,3 +60,7 @@
     display: flex;
     align-items: center;
 }
+
+.searchResult__price > p {
+    text-align: right;
+}
