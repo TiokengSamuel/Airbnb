@@ -69,6 +69,16 @@ function SearchPage() {
                 price="$55 / night"
                 total="$320 total"
             />
+
+            <SearchResult
+                img="https://www.domusweb.it/content/dam/domusweb/it/design/2019/02/18/airbnb-racconta-gli-interni-degli-utenti-che-fanno-tendenza/domus-airbnb-10.jpg.foto.rmedium.jpg"
+                location="Private room in center of London"
+                title="Rustic Hostel"
+                description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
+                star={3.2}
+                price="$40 / night"
+                total="$300 total"
+            />
         </div>
     )
 }
