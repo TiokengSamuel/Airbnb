@@ -51,13 +51,13 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://image.insider.com/585029a0dd0895bc548b4"
+                img="https://image.insider.com/585029a0dd0895bc548b48b?width=750&format=jpeg&auto=webp"
                 location="Private room in center of London"
                 title="Spacious Peacefull"
                 description="3 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Dry Cleaning"
-                star={5.0}
-                price="$60 / night"
-                total="$450 total"
+                star={3.85}
+                price="$90 / night"
+                total="$650 total"
             />
 
             <SearchResult
