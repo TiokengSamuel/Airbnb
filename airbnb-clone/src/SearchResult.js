@@ -1,5 +1,6 @@
 import React from 'react'
 import './SearchResult.css'
+import FavouriteBorderIcon from "@material-ui/icons/FavoriteBorder"
 
 function SearchResult({
     img,
