@@ -34,6 +34,10 @@ function SearchResult({
                 </p>
                 
             </div>
+
+            <div>
+                
+            </div>
         </div>
     </div>
     )
