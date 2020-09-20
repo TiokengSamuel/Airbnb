@@ -11,6 +11,12 @@ function SearchPage() {
                 >Cancelation Flexibiblity</Button>
                 <Button variant="outlined"
                 >Type of place</Button>
+                <Button variant="outlined"
+                >Price</Button>
+                <Button variant="outlined"
+                >Rooms and beds</Button>
+                 <Button variant="outlined"
+                >More filters</Button>
             </div>
         </div>
     )
