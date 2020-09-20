@@ -12,7 +12,7 @@ function SearchResult({
 }) {
     return (
         <div className="searchResult">
-            
+            <img src = {img} alt=""/>
         </div>
     )
 }
