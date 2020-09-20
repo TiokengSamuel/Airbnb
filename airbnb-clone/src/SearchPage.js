@@ -31,10 +31,10 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPTTxQPMcBh7SPzLFactXnP3uhifeVT_g&usqp=CAU"
+                img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
                 location="Private room in center of London"
-                title="Stay at this spacious Edwardian House"
-                description="! guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
+                title="London Studios Appartments"
+                description="4 guest - 4 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
                 star={4.73}
                 price="$30 / night"
                 total="$177 total"
