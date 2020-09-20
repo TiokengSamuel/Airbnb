@@ -35,7 +35,7 @@ function SearchResult({
                 
             </div>
 
-            <div>
+            <div className="searchResults___price">
                 
             </div>
         </div>
