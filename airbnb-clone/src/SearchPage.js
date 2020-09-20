@@ -3,8 +3,11 @@ import './SearchPage.css'
 
 function SearchPage() {
     return (
-        <div >
-            <h1>Search Page</h1>
+        <div className='searchPage'>
+            <div className='searchPage__info'>
+                <p>62 stays - 26 august to 30 august - 2 guest</p>
+                <h1>Stays nearby</h1>
+            </div>
         </div>
     )
 }
