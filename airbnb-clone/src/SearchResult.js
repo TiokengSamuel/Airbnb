@@ -12,7 +12,9 @@ function SearchResult({
 }) {
     return (
         <div className="searchResult">
-            <img src = {img} alt=""/>
+            <img src ={img} alt=""/>
+            <FavouriteBorderIcon
+            className=""/>
         </div>
     )
 }
