@@ -21,7 +21,7 @@ function SearchPage() {
                 >More filters</Button>
             </div>
             <SearchResult
-                img="https://encrypted-tbn0."
+                img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPTTxQPMcBh7SPzLFactXnP3uhifeVT_g&usqp=CAU"
             />
         </div>
     )
