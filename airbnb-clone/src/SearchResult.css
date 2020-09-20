@@ -40,3 +40,9 @@
     font-weight: 300;
     margin-top: 10px;
 }
+
+.searchResult__infoTop > p {
+    margin-top: 10px;
+    font-size: 13px;
+    color: gray;
+}
