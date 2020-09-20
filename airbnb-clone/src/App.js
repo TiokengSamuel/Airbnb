@@ -8,18 +8,11 @@ function App() {
   return (
     <div className="app">
       
-      <Header/>
-      <Home/>
-      <Footer/>
-
-      {/* Header */}
-
-      {/* Banner */}
-        {/* SearchPage */}
-
-      {/* Card */}
-
-      {/* Footer */}
+      <Router>
+        <Header/>
+        <Home/>
+        <Footer/>
+      </Router>
       
     </div>
   );
