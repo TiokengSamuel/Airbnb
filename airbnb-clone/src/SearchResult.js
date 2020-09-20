@@ -16,7 +16,7 @@ function SearchResult({
             <img src ={img} alt=""/>
             <FavouriteBorderIcon
             className="searchResult__heart"/>
-        </div>
+        
 
         <div className='searchResult__info'>
             <div className = 'searchResult__infoTop'>
@@ -29,8 +29,13 @@ function SearchResult({
             <div className="searchResult__infoBottom">
                 <StarIcon className="searchResult__star"
                 />
+                <p>
+                    <strong>{star}</strong>
+                </p>
+                
             </div>
         </div>
+    </div>
     )
 }
 
