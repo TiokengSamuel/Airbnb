@@ -61,11 +61,11 @@
     align-items: center;
 }
 
-.searchResult__price > p {
+.searchResults__price > p {
     text-align: right;
 }
 
-.searchResult__price {
+.searchResults__price {
     position: absolute;
     bottom: 20px;
     right: 30px;
