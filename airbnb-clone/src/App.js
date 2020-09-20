@@ -5,7 +5,7 @@ import Header from "./Header"
 import Footer from './Footer'
 import SearchPage from './SearchPage'
 
-import {}
+import { BrowserRouter as Router, Switch, Route}
 
 function App() {
   return (
