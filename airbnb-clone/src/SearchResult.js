@@ -1,5 +1,5 @@
 import React from 'react'
-im
+import './SearchResult.css'
 
 function SearchResult() {
     return (
