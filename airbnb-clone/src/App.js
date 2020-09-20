@@ -5,6 +5,8 @@ import Header from "./Header"
 import Footer from './Footer'
 import SearchPage from './SearchPage'
 
+import {}
+
 function App() {
   return (
     <div className="app">
