@@ -11,6 +11,11 @@ function App() {
       <Router>
         <Header/>
         <Home/>
+        <Switch>
+
+          <SearchPage/>
+
+      </Switch>
         <Footer/>
       </Router>
       
