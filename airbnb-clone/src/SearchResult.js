@@ -26,7 +26,10 @@ function SearchResult({
                 <p>{description}</p>
             </div>
 
-            <div className="searchResult__infoBottom"></div>
+            <div className="searchResult__infoBottom">
+                <StarIcon className
+                />
+            </div>
         </div>
     )
 }
