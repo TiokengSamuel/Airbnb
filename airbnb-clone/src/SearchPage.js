@@ -43,7 +43,7 @@ function SearchPage() {
             <SearchResult
                 img="https://media.cntraveler.com/photos/5a8f258bd363c34048b35aac/master/w_2250,h_1500,c_limit/airbnb-plus-london.jpg"
                 location="Private room in center of London"
-                title="30min to Oxford University"
+                title="Spacious Peacefull"
                 description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
                 star={4.1}
                 price="$55 / night"
