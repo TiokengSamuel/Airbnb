@@ -22,6 +22,8 @@ function SearchResult({
             <div className = 'searchResult__infoTop'>
 
             </div>
+
+            <div className="searchResult__infoBottom"></div>
         </div>
     )
 }
