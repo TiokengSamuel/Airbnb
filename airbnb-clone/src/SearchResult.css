@@ -48,5 +48,6 @@
 }
 
 .searchResult__infoBottom {
-    
+    display: flex;
+    justify-content: space-between;
 }
