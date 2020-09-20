@@ -41,13 +41,23 @@ function SearchPage() {
             />
 
             <SearchResult
+                img="https://media.cntraveler.com/photos/5a8f258bd363c34"
+                location="Private room in center of London"
+                title="30min to Oxford University"
+                description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
+                star={4.1}
+                price="$55 / night"
+                total="$320 total"
+            />
+
+            <SearchResult
                 img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPTTxQPMcBh7SPzLFactXnP3uhifeVT_g&usqp=CAU"
                 location="Private room in center of London"
                 title="30min to Oxford University"
                 description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
-                star={4.73}
-                price="$30 / night"
-                total="$177 total"
+                star={4.1}
+                price="$55 / night"
+                total="$320 total"
             />
         </div>
     )
