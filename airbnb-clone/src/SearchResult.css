@@ -7,3 +7,7 @@
     opacity: 1;
     cursor: pointer;
 }
+
+.searchResult:hover {
+    opacity: 0.8;
+}
