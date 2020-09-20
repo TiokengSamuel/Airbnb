@@ -21,7 +21,7 @@ function SearchPage() {
                 >More filters</Button>
             </div>
             <SearchResult
-                img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.curbed.com%2F2016%2F12%2F13%2F13933554%2Fairbnb-vacation-rental-alternatives&psig=AOvVaw2rQJwxwvYfqzg-DBBnbUEL&ust=1600687967884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD9tMXR9-sCFQAAAAAdAAAAABAD"
+                img="https://cdn.vox-cdn.com/thumbor/tIxDTa_jhWk0Cc0NaT64sSeTaTw=/0x0:2000x1118/920x613/filters:focal(840x399:1160x719):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52264099/The_Terrace_Sicilian__1_.1497897195.jpg"
                 location="Private room in center of London"
                 title="Stay at this spacious Edwardian House"
                 description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
@@ -31,7 +31,7 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.fodors.com%2Fwp-content%2Fuploads%2F2019%2F08%2Fairbnb-hero-.jpg&imgrefurl=https%3A%2F%2Fwww.fodors.com%2Fnews%2Ftrip-ideas%2Fread-this-before-you-book-an-airbnb-or-vacation-rental&tbnid=Z3j9dFTuAxjM-M&vet=10CBUQxiAoBGoXChMIwP20xdH36wIVAAAAAB0AAAAAEAc..i&docid=jeoYyYkaqbK0iM&w=1800&h=1200&itg=1&q=airbnb%20house%20images&ved=0CBUQxiAoBGoXChMIwP20xdH36wIVAAAAAB0AAAAAEAc"
+                img="https://miro.medium.com/max/1000/1*lH5QyWjJ8lLLl-G_POna-Q.jpeg"
                 location="Private room in center of London"
                 title="London Studios Appartments"
                 description="4 guest - 4 bedroom - Free parking  - Washing Machine"
@@ -41,7 +41,7 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fskift.com%2F2019%2F04%2F17%2Fairbnb-leads-new-160-million-funding-for-short-term-rental-brand-lyric%2F&psig=AOvVaw2rQJwxwvYfqzg-DBBnbUEL&ust=1600687967884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD9tMXR9-sCFQAAAAAdAAAAABAJ"
+                img="https://afar-production.imgix.net/uploads/images/post_images/images/lps7EhRc7P/original_9-airbnb-beach_house-destin-florida.jpg?auto=compress,format&lossless=true&w=845"
                 location="Private room in center of London"
                 title="Spacious Peacefull"
                 description="3 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Dry Cleaning"
@@ -51,7 +51,7 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fairbnb-marriott-battle-upstarts-for-short-term-rental-market-11557234000&psig=AOvVaw2rQJwxwvYfqzg-DBBnbUEL&ust=1600687967884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD9tMXR9-sCFQAAAAAdAAAAABAO"
+                img="https://wtsenates.info/wp-content/uploads/2020/04/Marvellous-Beach-Style-Living-Room-Ideas-marvelous-pier-one-window-with-light-blue-walls-and-large-Living-Room-Marvellous-Beach-Ideas-Style-.jpg"
                 location="Private room in center of London"
                 title="Spacious Peacefull"
                 description="3 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Dry Cleaning"
@@ -61,7 +61,7 @@ function SearchPage() {
             />
 
             <SearchResult
-                img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.curbed.com%2F2016%2F12%2F13%2F13933554%2Fairbnb-vacation-rental-alternatives&psig=AOvVaw2rQJwxwvYfqzg-DBBnbUEL&ust=1600687967884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD9tMXR9-sCFQAAAAAdAAAAABAT"
+                img="https://s3.amazonaws.com/images.planndesign.com/article/beach-style-living-room_0.jpg"
                 location="Private room in center of London"
                 title="30min to Oxford University"
                 description="1 guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
