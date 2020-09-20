@@ -58,5 +58,5 @@
 
 .searchResult__stars {
     display: flex;
-    
+    align-items: center;
 }
