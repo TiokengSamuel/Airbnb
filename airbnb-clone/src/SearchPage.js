@@ -10,7 +10,7 @@ function SearchPage() {
                 <Button variant="outlined"
                 >Cancelation Flexibiblity</Button>
                 <Button variant="outlined"
-                >Cancelation Flexibiblity</Button>
+                >Type of place</Button>
             </div>
         </div>
     )
