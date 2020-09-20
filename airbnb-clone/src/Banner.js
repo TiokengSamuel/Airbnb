@@ -31,7 +31,7 @@ function Banner() {
                 <h5>Plan a different kind of gateway
                     to uncover the hidden gems near you.
                 </h5>
-                <Button variant='outlined'>
+                <Button variant='outlined' onClick={() =>}>
                     Explore Nearby</Button>
             </div>
         </div>
