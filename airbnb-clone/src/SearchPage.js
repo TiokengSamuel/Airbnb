@@ -20,7 +20,9 @@ function SearchPage() {
                  <Button variant="outlined"
                 >More filters</Button>
             </div>
-            <SearchResult/>
+            <SearchResult
+                img="https://encrypted-tbn0."
+            />
         </div>
     )
 }
