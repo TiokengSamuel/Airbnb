@@ -41,6 +41,12 @@
     margin-top: 10px;
 }
 
+.searchResult__heart {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
 .searchResult__infoTop > p {
     margin-top: 10px;
     font-size: 13px;
