@@ -5,7 +5,7 @@ import Header from "./Header"
 import Footer from './Footer'
 import SearchPage from './SearchPage'
 
-import { BrowserRouter as Router, Switch, Route} from "react-router-dom";r
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 function App() {
   return (
