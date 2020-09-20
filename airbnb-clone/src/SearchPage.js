@@ -7,6 +7,10 @@ function SearchPage() {
             <div className='searchPage__info'>
                 <p>62 stays - 26 august to 30 august - 2 guest</p>
                 <h1>Stays nearby</h1>
+                <Button variant="outlined"
+                >Cancelation Flexibiblity</Button>
+                <Button variant="outlined"
+                >Cancelation Flexibiblity</Button>
             </div>
         </div>
     )
