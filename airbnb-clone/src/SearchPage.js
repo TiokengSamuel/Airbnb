@@ -26,7 +26,8 @@ function SearchPage() {
                 title="Stay at this spacious Edwardian House"
                 description="! guest - 1 bedroom - 1.5 shared bathroom - Wifi - Kitchen - Free parking - Washing Machine"
                 star={4.73}
-                
+                price="$30 / night"
+                total="$177 total"
             />
         </div>
     )
