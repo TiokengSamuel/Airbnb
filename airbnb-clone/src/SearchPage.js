@@ -19,6 +19,7 @@ function SearchPage() {
                  <Button variant="outlined"
                 >More filters</Button>
             </div>
+            <SearchResult/>
         </div>
     )
 }
